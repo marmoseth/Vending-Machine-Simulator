@@ -1,10 +1,6 @@
 """
-Name: Aaron Mark William
-Student id: S240132
-
-Additional notes:
-Included text version of vending machine (s240132_tx_main_041122.py) as reference of a text implementation of the assessment.
-Included version (s240132_vm_031222.py) as reference - as it shows more robust coding, but ultimately unfinished.
+Author Name: Aaron Mark William
+Created for: University of Suffolk
 """
 # ============================================
 #: 1.0 Imports
